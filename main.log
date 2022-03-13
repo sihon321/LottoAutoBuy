@@ -1,0 +1,54 @@
+
+
+====== WebDriver manager ======
+Current google-chrome version is 98.0.4758
+Get LATEST chromedriver version for 98.0.4758 google-chrome
+Driver [/Users/sihoon/.wdm/drivers/chromedriver/mac64_m1/98.0.4758.102/chromedriver] found in cache
+/Users/sihoon/PycharmProjects/LottoProject/main.py:48: DeprecationWarning: find_element_by_xpath is deprecated. Please use find_element(by=By.XPATH, value=xpath) instead
+  driver.find_element_by_xpath('/html/body/div[1]/header/div/div[2]/form/div/ul/li[1]/a').click()
+/Users/sihoon/PycharmProjects/LottoProject/main.py:49: DeprecationWarning: find_element_by_xpath is deprecated. Please use find_element(by=By.XPATH, value=xpath) instead
+  driver.find_element_by_xpath('/html/body/div[3]/section/div/div[2]/div/form/div/div[1]/fieldset/div[1]/input[1]')\
+/Users/sihoon/PycharmProjects/LottoProject/main.py:51: DeprecationWarning: find_element_by_xpath is deprecated. Please use find_element(by=By.XPATH, value=xpath) instead
+  driver.find_element_by_xpath('//*[@id="article"]/div[2]/div/form/div/div[1]/fieldset/div[1]/input[2]')\
+/Users/sihoon/PycharmProjects/LottoProject/main.py:53: DeprecationWarning: find_element_by_xpath is deprecated. Please use find_element(by=By.XPATH, value=xpath) instead
+  driver.find_element_by_xpath('//*[@id="article"]/div[2]/div/form/div/div[1]/fieldset/div[1]/a').click()
+/Users/sihoon/PycharmProjects/LottoProject/main.py:44: DeprecationWarning: find_element_by_xpath is deprecated. Please use find_element(by=By.XPATH, value=xpath) instead
+  driver.find_element_by_xpath('//*[@id="gnb"]/ul/li[1]/a').click()
+/Users/sihoon/PycharmProjects/LottoProject/main.py:45: DeprecationWarning: find_element_by_xpath is deprecated. Please use find_element(by=By.XPATH, value=xpath) instead
+  driver.find_element_by_xpath('//*[@id="gnb"]/ul/li[1]/div/ul/li[1]/a').click()
+/Users/sihoon/PycharmProjects/LottoProject/main.py:33: DeprecationWarning: find_element_by_xpath is deprecated. Please use find_element(by=By.XPATH, value=xpath) instead
+  driver.find_element_by_xpath('//*[@id="btnSelectNum"]').click()  # 확인버튼 클릭하기_좌측창
+/Users/sihoon/PycharmProjects/LottoProject/main.py:34: DeprecationWarning: find_element_by_xpath is deprecated. Please use find_element(by=By.XPATH, value=xpath) instead
+  driver.find_element_by_xpath('//*[@id="btnBuy"]').click()  # 구매하기 버튼 클릭하기_우측창
+/Users/sihoon/PycharmProjects/LottoProject/main.py:36: DeprecationWarning: find_element_by_xpath is deprecated. Please use find_element(by=By.XPATH, value=xpath) instead
+  driver.find_element_by_xpath('//*[@id="popupLayerConfirm"]/div/div[2]/input[1]').click()
+4
+4
+
+
+====== WebDriver manager ======
+Current google-chrome version is 99.0.4844
+Get LATEST chromedriver version for 99.0.4844 google-chrome
+There is no [mac64_m1] chromedriver for browser  in cache
+Trying to download new driver from https://chromedriver.storage.googleapis.com/99.0.4844.51/chromedriver_mac64_m1.zip
+Driver has been saved in cache [/Users/sihoon/.wdm/drivers/chromedriver/mac64_m1/99.0.4844.51]
+/Users/sihoon/PycharmProjects/LottoProject/main.py:48: DeprecationWarning: find_element_by_xpath is deprecated. Please use find_element(by=By.XPATH, value=xpath) instead
+  driver.find_element_by_xpath('/html/body/div[1]/header/div/div[2]/form/div/ul/li[1]/a').click()
+/Users/sihoon/PycharmProjects/LottoProject/main.py:49: DeprecationWarning: find_element_by_xpath is deprecated. Please use find_element(by=By.XPATH, value=xpath) instead
+  driver.find_element_by_xpath('/html/body/div[3]/section/div/div[2]/div/form/div/div[1]/fieldset/div[1]/input[1]')\
+/Users/sihoon/PycharmProjects/LottoProject/main.py:51: DeprecationWarning: find_element_by_xpath is deprecated. Please use find_element(by=By.XPATH, value=xpath) instead
+  driver.find_element_by_xpath('//*[@id="article"]/div[2]/div/form/div/div[1]/fieldset/div[1]/input[2]')\
+/Users/sihoon/PycharmProjects/LottoProject/main.py:53: DeprecationWarning: find_element_by_xpath is deprecated. Please use find_element(by=By.XPATH, value=xpath) instead
+  driver.find_element_by_xpath('//*[@id="article"]/div[2]/div/form/div/div[1]/fieldset/div[1]/a').click()
+/Users/sihoon/PycharmProjects/LottoProject/main.py:44: DeprecationWarning: find_element_by_xpath is deprecated. Please use find_element(by=By.XPATH, value=xpath) instead
+  driver.find_element_by_xpath('//*[@id="gnb"]/ul/li[1]/a').click()
+/Users/sihoon/PycharmProjects/LottoProject/main.py:45: DeprecationWarning: find_element_by_xpath is deprecated. Please use find_element(by=By.XPATH, value=xpath) instead
+  driver.find_element_by_xpath('//*[@id="gnb"]/ul/li[1]/div/ul/li[1]/a').click()
+/Users/sihoon/PycharmProjects/LottoProject/main.py:33: DeprecationWarning: find_element_by_xpath is deprecated. Please use find_element(by=By.XPATH, value=xpath) instead
+  driver.find_element_by_xpath('//*[@id="btnSelectNum"]').click()  # 확인버튼 클릭하기_좌측창
+/Users/sihoon/PycharmProjects/LottoProject/main.py:34: DeprecationWarning: find_element_by_xpath is deprecated. Please use find_element(by=By.XPATH, value=xpath) instead
+  driver.find_element_by_xpath('//*[@id="btnBuy"]').click()  # 구매하기 버튼 클릭하기_우측창
+/Users/sihoon/PycharmProjects/LottoProject/main.py:36: DeprecationWarning: find_element_by_xpath is deprecated. Please use find_element(by=By.XPATH, value=xpath) instead
+  driver.find_element_by_xpath('//*[@id="popupLayerConfirm"]/div/div[2]/input[1]').click()
+3
+3
